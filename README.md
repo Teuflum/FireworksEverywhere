@@ -54,7 +54,7 @@ Sets the minimum spawn interval for each firework.
 ### Maximum Spawn Interval
 - **Setting**: `MaxSpawnInterval`
 - **Unit**: `Seconds`
-- **Default**: `1.16`
+- **Default**: `1.0`
 
 Sets the maximum spawn interval for each firework.
 
