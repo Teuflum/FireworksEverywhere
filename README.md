@@ -49,6 +49,7 @@ By default, the game stops the fireworks after you leave the main menu by enteri
 - **Default**: `0.2`
 
 Sets the minimum spawn interval for each firework.
+**Setting this too low can introduce inconsistent audio issues.**
 
 ### Maximum Spawn Interval
 - **Setting**: `MaxSpawnInterval`
