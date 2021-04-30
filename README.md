@@ -63,7 +63,6 @@ Sets the maximum spawn interval for each firework.
 - **Default**: `1.0`
 
 I'm not quite sure how that multiplier actually works and it tends to provide weird results when you go too high, but it's included anyways.
-Higher number -> brigher lights duh.
 
 ### Light Flash Duration
 - **Setting**: `LightFlashDuration`
